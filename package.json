@@ -1,0 +1,28 @@
+{
+  "name": "week1",
+  "version": "1.0.0",
+  "description": "Learning FULL STACK SKILLS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass sass:css --watch",
+    "prepare": "husky"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Web",
+    "Learning"
+  ],
+  "author": "Kevin Gonzales",
+  "prettier": {
+    "singleQuote": true
+  },
+  "devdependencies": {
+    "husky": "^9.0.11",
+    "sass": "^1.71.1",
+    "eslint": "^8.57.0"
+  },
+  "dependencies": {}
+}

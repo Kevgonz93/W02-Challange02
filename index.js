@@ -1,0 +1,2 @@
+const stg='Animales'
+
